@@ -1,0 +1,49 @@
+.body{
+    background-color: rgb(228, 243, 255);
+}
+.morado{
+    background-color: rgb(147, 67, 221) !important;
+    background-image: url(./imagenes/bg-pattern-quotation.svg);
+    background-repeat: no-repeat;
+    background-position-x: 75%;
+    background-size: 28%;
+    background-blend-mode: unset;
+}
+.bordeado1{
+    background-color: rgb(248, 252, 255) !important;
+}
+.fs-4{
+    color: white;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.fs-6{
+    color: white;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.fs-3{
+    color: rgb(68, 68, 68);
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.fs-5{
+    color: rgb(68, 68, 68);
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.oscuro{
+    background-color:rgb(4, 2, 17);
+}
+.m-0{
+    color: aliceblue;
+}
+.card-body{
+    border-radius: 15px;
+    border-color: black !important;
+}
+.c5-b{
+    background-color: rgb(147, 67, 221) !important;
+}
+.m-0{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.m-1{
+    font-family: 'Roboto Condensed', sans-serif;
+}
